@@ -1,8 +1,7 @@
 Welcome to my Portfolio.
 
 
-Please visit my profile here: https://bugfree-kartik.github.io/Portfolio-Kartik-Pagey
-
+Please visit my profile here: https://bugfree-kartik.github.io/Portfolio-Kartik-Pagey/
 
 
 # 🧠 Tech Stack & Skills
